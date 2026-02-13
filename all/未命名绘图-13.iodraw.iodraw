@@ -398,9 +398,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="IuM_GfGubixa3yWdCMHE-63" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=22;dx2=25;" vertex="1" parent="1">
-          <mxGeometry x="940" y="220" width="180" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
